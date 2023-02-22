@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gelismiskomutlari</string>
+    <string name="btn1">(selam aleküm)</string>
+    <string name="btn2">a</string>
+    <string name="btn3">s</string>
+    <string name="btn4">d</string>
+    <string name="btn5">f</string>
+    <string name="btn6">h</string>
+    <string name="btn7">g</string>
+    <string name="btn8">j</string>
+    <string name="btn9">k</string>
+    <string name="btn10"></string>
+    <string name="btn11"></string>
+    <string name="btn12"></string>
+    <string name="btn13"></string>
+
+</resources>
